@@ -1,0 +1,50 @@
+
+
+
+---------------WD HTML-5 MODUL-3--------------------------------------
+
+ 
+1)	 What are the new  tags added in HTML5?
+->   <articale>,     <main>,   <progress>,
+       <section>,      <aside>,  <output>.
+       <nav>,            <figure>,
+       <header>,      <main>,
+       <footer>,        <mark>,
+
+
+2)	How to Embed audio and video in awebpage?
+->   EMBED AUDIO
+           - <audio controls>
+              <source src= “audio.mp3” type= “audio/mp3”>
+                 Your browser does not support the audio elemnt.
+               </audio>
+   ->  EMBED VIDEO         
+                <video width="320" height="240" controls>
+                <source src="movie.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+                 Your browser does not support the audio elemnt.
+</video>
+
+3)	 Semantic element in HTML5 ?
+->    <article> ,   <aside>
+        <details>,    <figcaption>,
+        <figure>,      <mark>,
+       <footer>,      <header>,
+         <main>,      <section>
+
+4)	 Canvas and SVG Tags 
+->     CANVAS
+      -  canvas use javascript to draw shape, image, manipulate, pixel 
+         directly.
+      -	<canvas id= “mycanvas” width= “200” height= “100”>
+        </canvas>
+        <script> 
+
+       SVG
+       -  SVG stands for Scalable Vector Graphics
+       - SVG is used to define graphics for the Web
+
+       - <svg width="100" height="100">
+         <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+         </svg>
+
